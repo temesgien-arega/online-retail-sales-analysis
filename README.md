@@ -79,12 +79,6 @@ The Excel dashboard presents:
 - Strengthen the leading market while exploring growth opportunities in other countries.
 - Use customer segmentation to support targeted marketing campaigns.
 
-## Dataset Source
-
-Chen, D. (2015). **Online Retail**. UCI Machine Learning Repository.
-
-[https://doi.org/10.24432/C5BW33](https://doi.org/10.24432/C5BW33)
-
 ## Project Files
 
 - `Online_Retail_Sales_Analysis_Portfolio.xlsb` — Excel analysis workbook and dashboard.
